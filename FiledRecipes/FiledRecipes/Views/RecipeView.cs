@@ -33,7 +33,7 @@ namespace FiledRecipes.Views
         }
         public virtual void Show(IEnumerable<IRecipe> recipes)
         {
-            foreach (Recipe recipe in recipes)
+            foreach (IRecipe recipe in recipes)
             {
                 if (recipe != null)
                 {
