@@ -1,0 +1,4 @@
+C:\Users\chorre\Desktop\FiledRecipes\FiledRecipes.Domain\bin\Debug\FiledRecipes.Domain.dll
+C:\Users\chorre\Desktop\FiledRecipes\FiledRecipes.Domain\bin\Debug\FiledRecipes.Domain.pdb
+C:\Users\chorre\Desktop\FiledRecipes\FiledRecipes.Domain\obj\Debug\FiledRecipes.Domain.dll
+C:\Users\chorre\Desktop\FiledRecipes\FiledRecipes.Domain\obj\Debug\FiledRecipes.Domain.pdb
