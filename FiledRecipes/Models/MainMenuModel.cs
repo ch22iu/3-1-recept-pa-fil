@@ -41,6 +41,7 @@ namespace FiledRecipes.Models
                 _menuItems.Add(new MenuItem { Text = Strings.MenuView, IsSeparator = true });
                 _menuItems.Add(new MenuItem { Text = Strings.MenuViewRecipe, Command = _commands.Single(c => c is ViewListCommand), Index = 4 });
                 _menuItems.Add(new MenuItem { Text = Strings.MenuViewAllRecipies, Command = _commands.Single(c => c is ViewAllCommand), Index = 5 });
+                _menuItems.Add(new MenuItem { Text = Strings.MenuViewAllRecipiesWithIntervall, Command = _commands.Single(c => c is ViewAllCommand), Index = 7 });
             }
             _menuItems.Add(new MenuItem { Text = Strings.MenuTools, IsSeparator = true });
             _menuItems.Add(new MenuItem { Text = Strings.MenuToolsChangeLanguage, Command = _commands.Single(c => c is ChangeLanguageCommand), Index = 6 });

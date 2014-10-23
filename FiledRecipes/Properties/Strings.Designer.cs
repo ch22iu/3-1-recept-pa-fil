@@ -248,6 +248,13 @@ namespace FiledRecipes.Properties {
                 return ResourceManager.GetString("MenuViewAllRecipies", resourceCulture);
             }
         }
+        internal static string MenuViewAllRecipiesWithIntervall
+        {
+            get
+            {
+                return "Intervall";
+            }
+        }
         
         /// <summary>
         ///   Looks up a localized string similar to View recipe.
