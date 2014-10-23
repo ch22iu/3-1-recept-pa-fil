@@ -5,3 +5,5 @@
 ![ScreenShot](README.png)
 
 "Du ska komplettera en något större applikation för hantering av recept. Applikationen är i stort färdig men behöver kompletteras med fyra metoder för att det ska gå att visa recept, hämta recept från och skriva recept till en textfil...."
+
+"Christopher-Robin Holmberg = Pro"
