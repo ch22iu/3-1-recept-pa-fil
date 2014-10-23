@@ -6,4 +6,10 @@
 
 "Du ska komplettera en något större applikation för hantering av recept. Applikationen är i stort färdig men behöver kompletteras med fyra metoder för att det ska gå att visa recept, hämta recept från och skriva recept till en textfil...."
 
+3.2 Fixes
+=================
+1. Added new item in list.
+2. Nice layout.
+3. Fixed GetAll()
+
 "Christopher-Robin Holmberg = Pro"
